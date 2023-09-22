@@ -3,8 +3,8 @@
 
 /**
  * swap_int - the two numbers are swapped
- * @c: the array for swap
- * @d: the array for swap
+ * @a: the array for swap
+ * @b: the array for swap
  */
 
 void swap_int(int *a, int *b)
