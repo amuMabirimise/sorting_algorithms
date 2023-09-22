@@ -3,8 +3,8 @@
 
 /**
  * swap_int - Swaps two integer elements in an array.
- * @c: Pointer to the first element.
- * @d: Pointer to the second element.
+ * @a: Pointer to the first element.
+ * @b: Pointer to the second element.
  */
 void swap_int(int *a, int *b)
 {
@@ -16,7 +16,7 @@ void swap_int(int *a, int *b)
 }
 
 /**
- * lomuto_partition - Lomuto partition scheme for Quick sort.
+ * partition - Lomuto partition scheme for Quick sort.
  * @array: Pointer to the array to be partitioned.
  * @low: Starting index of the partition.
  * @high: Ending index of the partition.
