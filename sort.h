@@ -27,6 +27,10 @@ void swap_int(int *a, int *b);
 void insertion_sort_list(listint_t **list);
 void print_list(const listint_t *list);
 void quick_sort(int *array, size_t size);
+<<<<<<< HEAD
 void cocktail_sort_list(listint_t **list);
+=======
+void shell_sort(int *array, size_t size);
+>>>>>>> 2aac32f57b36784b927a1e0c207e6556283c5d3e
 
 #endif
